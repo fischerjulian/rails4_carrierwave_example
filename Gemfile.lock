@@ -69,6 +69,9 @@ GEM
     columnize (0.8.9)
     commonjs (0.2.7)
     debugger-linecache (1.2.0)
+    dotenv (1.0.2)
+    dotenv-rails (1.0.2)
+      dotenv (= 1.0.2)
     erubis (2.7.0)
     excon (0.39.5)
     execjs (2.0.2)
@@ -206,6 +209,7 @@ DEPENDENCIES
   capistrano-rbenv!
   carrierwave
   coffee-rails
+  dotenv-rails
   fog
   jquery-rails
   less-rails
