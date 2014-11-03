@@ -1,3 +1,6 @@
+require 'dotenv'
+Dotenv.load
+
 require 'carrierwave'
 require 'a9s_swift'
 
