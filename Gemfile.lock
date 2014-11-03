@@ -72,8 +72,6 @@ GEM
     dotenv (1.0.2)
     dotenv-deployment (0.2.0)
       dotenv (~> 1.0)
-    dotenv-rails (1.0.2)
-      dotenv (= 1.0.2)
     erubis (2.7.0)
     excon (0.39.5)
     execjs (2.0.2)
@@ -212,7 +210,6 @@ DEPENDENCIES
   carrierwave
   coffee-rails
   dotenv-deployment
-  dotenv-rails
   fog
   jquery-rails
   less-rails
